@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_Sizes_Mattias1800.Android", "Project_Sizes_Mattias1800.Android\Project_Sizes_Mattias1800.Android.csproj", "{450E014C-2C75-43CB-812F-128D36C6C156}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_Sizes_Mattias1800", "Project_Sizes_Mattias1800\Project_Sizes_Mattias1800.csproj", "{0917DFEB-929B-4176-82BF-4071E363DBA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{450E014C-2C75-43CB-812F-128D36C6C156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450E014C-2C75-43CB-812F-128D36C6C156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450E014C-2C75-43CB-812F-128D36C6C156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450E014C-2C75-43CB-812F-128D36C6C156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0917DFEB-929B-4176-82BF-4071E363DBA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0917DFEB-929B-4176-82BF-4071E363DBA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0917DFEB-929B-4176-82BF-4071E363DBA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0917DFEB-929B-4176-82BF-4071E363DBA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
